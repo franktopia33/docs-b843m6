@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-l3cc6r.radarsatu88.cfd/sitemap.xml
